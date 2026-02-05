@@ -20,4 +20,4 @@ A personal productivity app with task management, mind mapping, and markdown not
 
 ## Contact
 
-For support or feedback, email: [your-email@example.com]
+For support or feedback, email: [yap.dev@pm.me]
