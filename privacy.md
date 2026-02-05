@@ -60,7 +60,7 @@ If we make changes to this privacy policy, we will update the "Last updated" dat
 
 If you have questions about this privacy policy, please contact:
 
-[your-email@example.com]
+[yap.dev@pm.me]
 
 ---
 
